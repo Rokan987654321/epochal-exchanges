@@ -20,7 +20,8 @@ function Home() {
         <div className="absolute inset-0 bg-gradient-to-r from-background via-background/85 to-background/30" />
         <div className="relative max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-10">
           <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-secondary font-semibold mb-4">A World Transformed · 1492</p>
+            <p className="text-xs uppercase tracking-[0.3em] text-secondary font-semibold mb-2">A World Transformed · 1492</p>
+            <p className="font-serif italic text-muted-foreground mb-4">Made by Lestad H. Reales</p>
             <h1 className="font-serif text-5xl md:text-7xl font-semibold leading-[1.05] text-foreground">
               When two worlds met, everything changed.
             </h1>
