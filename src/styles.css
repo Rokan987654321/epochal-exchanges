@@ -76,11 +76,13 @@
   padding: 0.5rem 0.75rem 0 0;
   color: var(--primary);
 }
-/* hide Lovable badge */
-#lovable-badge,
-aside#lovable-badge {
+body > aside[role="complementary"] {
   display: none !important;
   visibility: hidden !important;
   opacity: 0 !important;
   pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+  width: 0 !important;
+  height: 0 !important;
 }
