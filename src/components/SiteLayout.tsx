@@ -7,6 +7,8 @@ const nav = [
   { to: "/causes", label: "The Causes" },
   { to: "/exchange", label: "The Exchange" },
   { to: "/impact", label: "Global Impact" },
+  { to: "/timeline", label: "Timeline" },
+  { to: "/map", label: "Map" },
   { to: "/references", label: "References" },
 ];
 
