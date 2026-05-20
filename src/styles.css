@@ -76,7 +76,7 @@
   padding: 0.5rem 0.75rem 0 0;
   color: var(--primary);
 }
-/* Hide Lovable badge */
+/* hide Lovable badge */
 #lovable-badge,
 aside#lovable-badge {
   display: none !important;
